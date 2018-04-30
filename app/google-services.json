@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "356303245860",
+    "firebase_url": "https://wirelessamp.firebaseio.com",
+    "project_id": "wirelessamp",
+    "storage_bucket": "wirelessamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356303245860:android:d665a854962cb592",
+        "android_client_info": {
+          "package_name": "com.btdarcy.wirelessamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356303245860-pa0015mdpsb7oh3rpn9kg2qjenhp7qk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btdarcy.wirelessamp",
+            "certificate_hash": "e54970d68e03f63b91ba4389225db3f1dd0b9bc0"
+          }
+        },
+        {
+          "client_id": "356303245860-gk1inc7ouioepilvpmh7lee3os7gbch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEE4qCivQrjXsVZM-bj8k_mHbObjqe9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356303245860-gk1inc7ouioepilvpmh7lee3os7gbch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
